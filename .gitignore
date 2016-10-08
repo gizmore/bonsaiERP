@@ -54,3 +54,5 @@ config/secrets.yml
 env
 token_file
 config/puma.rb
+vendor/bundle
+.bundle/config
